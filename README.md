@@ -8,6 +8,7 @@
 
 ## Microservices
 
+- [Microservices: a definition of this new architectural term](https://martinfowler.com/articles/microservices.html)
 - [Arquitetura funcional em Microservices](https://www.youtube.com/watch?v=G_tCYSE4K0I&ab_channel=InfoQBrasil)
 - [Nubank's experience scaling microservices operations](https://www.infoq.com/br/presentations/nubank-experience-scaling-microservices-operations)
 - [Simple sketch of how Nubank layout a clojure microservice](https://github.com/nubank/basic-microservice-example)
@@ -22,3 +23,8 @@
 ## Code Reviews
 
 - [The Secret To Better Code Reviews](https://medium.com/disney-streaming/the-secret-to-better-code-reviews-c14c7884b9ac)
+
+## API
+
+- [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
+- [What is an API? In English, please](https://medium.freecodecamp.org/what-is-an-api-in-english-please-b880a3214a82)
