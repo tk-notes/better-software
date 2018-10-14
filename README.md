@@ -14,6 +14,7 @@
 - [Simple sketch of how Nubank layout a clojure microservice](https://github.com/nubank/basic-microservice-example)
 - [Testing at the edges with a world-transition style integration test framework](https://github.com/nubank/selvage)
 - [Architecting a Modern Financial Institution](https://www.youtube.com/watch?v=VYuToviSx5Q&t=30s&ab_channel=InfoQ)
+- [Patterns of Microservices Architecture](http://philcalcado.com/microservices-patterns.html)
 
 ## Functional
 
