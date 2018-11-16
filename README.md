@@ -25,6 +25,8 @@
 ## Code Reviews
 
 - [The Secret To Better Code Reviews](https://medium.com/disney-streaming/the-secret-to-better-code-reviews-c14c7884b9ac)
+- [The Outrageous Cost of Skipping TDD & Code Reviews](https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412)
+- [TDD the RITE Way](https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3)
 
 ## API
 
