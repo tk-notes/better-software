@@ -32,3 +32,7 @@
 
 - [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
 - [What is an API? In English, please](https://medium.freecodecamp.org/what-is-an-api-in-english-please-b880a3214a82)
+
+## Experience
+
+- [What I’ve learned in 10 years as an SDE](https://medium.com/expedia-engineering/what-ive-learned-in-10-years-as-an-sde-9cea19aac0ce)
