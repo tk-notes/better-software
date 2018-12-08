@@ -1,5 +1,15 @@
 # Resources
 
+## Table of Contents
+
+- [Clean Code](#clean-code)
+- [Microservices](#microservices)
+- [Code Reviews](#code-reviews)
+- [API](#api)
+- [Functional Programming](https://github.com/LeandroTk/learning-functional)
+- [Tests](#tests)
+- [Experience](#experience)
+
 ## Clean Code
 
 - [Eleven practical tricks to write Clean Code — Part 1](https://thoughts.travelperk.com/eleven-practical-tricks-to-write-clean-code-part-1-c7a285993ec4)
@@ -16,12 +26,6 @@
 - [Architecting a Modern Financial Institution](https://www.youtube.com/watch?v=VYuToviSx5Q&t=30s&ab_channel=InfoQ)
 - [Patterns of Microservices Architecture](http://philcalcado.com/microservices-patterns.html)
 
-## Functional
-
-- [Thoughts on Immutability, CI/CD, FP](https://www.infoq.com/podcasts/Vitor-Olivier)
-- [Practical Functional Programming](https://hackernoon.com/practical-functional-programming-6d7932abc58b)
-- [Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
-
 ## Code Reviews
 
 - [The Secret To Better Code Reviews](https://medium.com/disney-streaming/the-secret-to-better-code-reviews-c14c7884b9ac)
@@ -32,6 +36,18 @@
 
 - [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
 - [What is an API? In English, please](https://medium.freecodecamp.org/what-is-an-api-in-english-please-b880a3214a82)
+- [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
+- [Design patterns for modern web APIs](https://blog.feathersjs.com/design-patterns-for-modern-web-apis-1f046635215)
+- [Usando o Postman para monitorar suas APIs](https://medium.com/@rodrigocaja/postman-api-monitoring-c786cbc76fbd)
+- [API Design: Stability Versus Readability — Must One Choose?](https://medium.com/apis-and-digital-transformation/api-design-stability-versus-readability-must-one-choose-19dffc9c031f)
+
+## Tests
+
+- [Tests & Dependencies](https://medium.com/extreme-programming/tests-dependencies-65f592a46529)
+- [Write tests. Not too many. Mostly integration](https://blog.kentcdodds.com/write-tests-not-too-many-mostly-integration-5e8c7fff591c)
+- [Four Phase Test](https://robots.thoughtbot.com/four-phase-test)
+- [Testes automatizados: a prática antes da teoria](https://www.youtube.com/watch?v=256khach8b0)
+- [Como não escrever seus testes](https://www.youtube.com/watch?v=Uh1kXSd8u94)
 
 ## Experience
 
