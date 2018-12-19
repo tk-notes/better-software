@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+- [Software Design](#software-design)
 - [Clean Code](#clean-code)
 - [Microservices](#microservices)
 - [Code Reviews](#code-reviews)
@@ -9,6 +10,10 @@
 - [Functional Programming](https://github.com/LeandroTk/learning-functional)
 - [Tests](#tests)
 - [Experience](#experience)
+
+## Software Design
+
+- [The Economics of Software Design](https://dev.tube/video/TQ9rng6YFeY)
 
 ## Clean Code
 
