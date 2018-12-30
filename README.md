@@ -14,6 +14,7 @@
 ## Software Design
 
 - [The Economics of Software Design](https://dev.tube/video/TQ9rng6YFeY)
+- [Why Writing Correct Software Is Hard](http://blog.paralleluniverse.co/2016/07/23/correctness-and-complexity/)
 
 ## Clean Code
 
