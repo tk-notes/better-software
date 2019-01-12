@@ -42,7 +42,7 @@
 
 - [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
 - [What is an API? In English, please](https://medium.freecodecamp.org/what-is-an-api-in-english-please-b880a3214a82)
-- [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
+- [REST APIs in Plain English](https://medium.com/@mate.safranka/rest-apis-in-plain-english-f0b8a874645)
 - [Design patterns for modern web APIs](https://blog.feathersjs.com/design-patterns-for-modern-web-apis-1f046635215)
 - [Usando o Postman para monitorar suas APIs](https://medium.com/@rodrigocaja/postman-api-monitoring-c786cbc76fbd)
 - [API Design: Stability Versus Readability — Must One Choose?](https://medium.com/apis-and-digital-transformation/api-design-stability-versus-readability-must-one-choose-19dffc9c031f)
