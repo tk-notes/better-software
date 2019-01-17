@@ -15,6 +15,7 @@
 
 - [The Economics of Software Design](https://dev.tube/video/TQ9rng6YFeY)
 - [Why Writing Correct Software Is Hard](http://blog.paralleluniverse.co/2016/07/23/correctness-and-complexity/)
+- [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 
 ## Clean Code
 
