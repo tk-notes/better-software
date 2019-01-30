@@ -16,6 +16,7 @@
 - [The Economics of Software Design](https://dev.tube/video/TQ9rng6YFeY)
 - [Why Writing Correct Software Is Hard](http://blog.paralleluniverse.co/2016/07/23/correctness-and-complexity/)
 - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
+- [A Collaborative Approach to Teaching Software Architecture](https://pure.tudelft.nl/portal/files/11788266/sigcse17.pdf)
 
 ## Clean Code
 
@@ -55,6 +56,10 @@
 - [Four Phase Test](https://robots.thoughtbot.com/four-phase-test)
 - [Testes automatizados: a prática antes da teoria](https://www.youtube.com/watch?v=256khach8b0)
 - [Como não escrever seus testes](https://www.youtube.com/watch?v=Uh1kXSd8u94)
+- [Pragmatic Software Testing Education](https://pure.tudelft.nl/portal/files/47139096/paper_testing.pdf)
+- [Testing vs writing tests](https://medium.com/@mauricioaniche/testing-vs-writing-tests-d817bffea6bc)
+- [State of Mutation Testing at Google](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46584.pdf)
+- [The Deep Synergy Between Testability and Good Design](https://vimeo.com/15007792)
 
 ## Experience
 
