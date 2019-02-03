@@ -62,6 +62,7 @@
 - [The Deep Synergy Between Testability and Good Design](https://vimeo.com/15007792)
 - [Test Coverage by Martin Fowler](https://martinfowler.com/bliki/TestCoverage.html)
 - [Integration Test by Martin Fowler](https://martinfowler.com/bliki/IntegrationTest.html)
+- [Clojure spec Screencast: Testing](https://www.youtube.com/watch?v=W6crrbF7s2s&ab_channel=ClojureTV)
 
 ## Experience
 
