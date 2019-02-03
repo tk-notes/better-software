@@ -60,6 +60,8 @@
 - [Testing vs writing tests](https://medium.com/@mauricioaniche/testing-vs-writing-tests-d817bffea6bc)
 - [State of Mutation Testing at Google](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46584.pdf)
 - [The Deep Synergy Between Testability and Good Design](https://vimeo.com/15007792)
+- [Test Coverage by Martin Fowler](https://martinfowler.com/bliki/TestCoverage.html)
+- [Integration Test by Martin Fowler](https://martinfowler.com/bliki/IntegrationTest.html)
 
 ## Experience
 
