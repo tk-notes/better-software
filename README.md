@@ -26,6 +26,7 @@
 
 ## Microservices
 
+### Backend
 - [Microservices: a definition of this new architectural term](https://martinfowler.com/articles/microservices.html)
 - [Arquitetura funcional em Microservices](https://www.youtube.com/watch?v=G_tCYSE4K0I&ab_channel=InfoQBrasil)
 - [Nubank's experience scaling microservices operations](https://www.infoq.com/br/presentations/nubank-experience-scaling-microservices-operations)
@@ -33,6 +34,10 @@
 - [Testing at the edges with a world-transition style integration test framework](https://github.com/nubank/selvage)
 - [Architecting a Modern Financial Institution](https://www.youtube.com/watch?v=VYuToviSx5Q&t=30s&ab_channel=InfoQ)
 - [Patterns of Microservices Architecture](http://philcalcado.com/microservices-patterns.html)
+
+### Frontend
+- [Compositional UIs - the Microservices Last Mile](https://www.youtube.com/watch?v=gjtFGx0yX5M&ab_channel=NDCConferences)
+- [Micro Frontends - breaking down the last monolith](https://www.youtube.com/watch?v=rCxj-ONZmxs&ab_channel=microXchg)
 
 ## Code Reviews
 
