@@ -38,6 +38,7 @@
 ### Frontend
 - [Compositional UIs - the Microservices Last Mile](https://www.youtube.com/watch?v=gjtFGx0yX5M&ab_channel=NDCConferences)
 - [Micro Frontends - breaking down the last monolith](https://www.youtube.com/watch?v=rCxj-ONZmxs&ab_channel=microXchg)
+- [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
 
 ## Code Reviews
 
