@@ -48,6 +48,8 @@
 
 ## API
 
+- [Best Practices in API Design](https://swagger.io/resources/articles/best-practices-in-api-design/)
+- [Web API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 - [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
 - [What is an API? In English, please](https://medium.freecodecamp.org/what-is-an-api-in-english-please-b880a3214a82)
 - [REST APIs in Plain English](https://medium.com/@mate.safranka/rest-apis-in-plain-english-f0b8a874645)
