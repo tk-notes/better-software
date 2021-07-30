@@ -56,6 +56,7 @@
 - [Design patterns for modern web APIs](https://blog.feathersjs.com/design-patterns-for-modern-web-apis-1f046635215)
 - [Usando o Postman para monitorar suas APIs](https://medium.com/@rodrigocaja/postman-api-monitoring-c786cbc76fbd)
 - [API Design: Stability Versus Readability — Must One Choose?](https://medium.com/apis-and-digital-transformation/api-design-stability-versus-readability-must-one-choose-19dffc9c031f)
+- [Introducing and Scaling a GraphQL BFF](https://www.infoq.com/presentations/graphql-bff/)
 
 ## Tests
 
